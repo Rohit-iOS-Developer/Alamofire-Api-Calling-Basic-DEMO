@@ -27,8 +27,3 @@ Explore the different methods provided in ViewController.swift to make API reque
 Replace placeholders like "YOUR TOKEN" and "YOUR URL STRING" with your actual token and URL.
 Run the application on a simulator or physical device.
 Check the Xcode console for API response outputs.
-Contributing
-Contributions are welcome! If you find any issues or want to add new features, feel free to open an issue or create a pull request. Make sure to follow the guidelines provided in the CONTRIBUTING.md file.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
