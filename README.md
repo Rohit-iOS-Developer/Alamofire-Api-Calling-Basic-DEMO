@@ -40,13 +40,6 @@ Explore the provided API request examples for different HTTP methods
 
 Run the app and check the Xcode console for API responses
 
-
-📂 Project Structure
-
-├── ViewController.swift
-├── AppDelegate.swift
-└── SceneDelegate.swift
-
 🤝 Contributing
 Contributions and suggestions are welcome!
 Feel free to fork this repo, create a new branch, and submit a pull request.
